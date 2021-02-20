@@ -1,0 +1,4 @@
+cuda-10.2
+python3
+cuda
+lib/*.so
